@@ -46,7 +46,7 @@ a{
 }
 
 .section-p1 {
-  padding: 40px 80px;
+  padding: 40px 50px;
 }
 
 .section-m1 {
@@ -155,7 +155,8 @@ body {
 }
 #feature .fe-box h6{
   display: inline-block;
-  padding: 9px 8px 6px 8px;
+  padding: 6px 5px 6px 5px;
+  width: 100%;
   line-height: 1;
   border-radius: 4px;
   color: #088178;
